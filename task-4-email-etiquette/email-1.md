@@ -17,9 +17,6 @@ Thank you for your time and consideration.
 
 
 Yours Sincerely, 
-
-Dhruvin Devpura,
-
-25BAI10276,
-
+Dhruvin Devpura 
+25BAI10276 
 VIT Bhopal
