@@ -65,10 +65,10 @@ Developed a case study on UPI fraud explaining how such scams occur, who is targ
 
 ## Useful Links
 
-- **GitHub Profile:** https://github.com/dhruvin-77  
-- **LinkedIn Profile:** https://www.linkedin.com/in/dhruvin-devpura-54428837a  
-- **Kaggle Profile:** https://www.kaggle.com/dhruvin77  
-- **Google Form (Digital Literacy Quiz):** https://docs.google.com/forms/d/e/1FAIpQLSdQDY0rKmWiRtiR1wC7LNqYfdeh9xcvBnipVwSaEyVx_wGTkw/viewform?usp=sharing&ouid=103328313009830038204  
+- [**GitHub Profile**](https://github.com/dhruvin-77)  
+- [**LinkedIn Profile**](https://www.linkedin.com/in/dhruvin-devpura-54428837a)  
+- [**Kaggle Profile**](https://www.kaggle.com/dhruvin77)  
+- [**Google Form (Digital Literacy Quiz)**](https://docs.google.com/forms/d/e/1FAIpQLSdQDY0rKmWiRtiR1wC7LNqYfdeh9xcvBnipVwSaEyVx_wGTkw/viewform?usp=sharing&ouid=103328313009830038204)  
 
 
 ---
